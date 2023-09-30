@@ -1,0 +1,66 @@
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\bin\Debug\net5.0\appsettings.json
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\bin\Debug\net5.0\WebAPI STaff Inventory.exe
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\bin\Debug\net5.0\WebAPI STaff Inventory.deps.json
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\bin\Debug\net5.0\WebAPI STaff Inventory.runtimeconfig.json
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\bin\Debug\net5.0\WebAPI STaff Inventory.runtimeconfig.dev.json
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\bin\Debug\net5.0\WebAPI STaff Inventory.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\bin\Debug\net5.0\WebAPI STaff Inventory.pdb
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.csproj.AssemblyReference.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.AssemblyInfoInputs.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.AssemblyInfo.cs
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\scopedcss\bundle\WebAPI STaff Inventory.styles.css
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\staticwebassets\WebAPI STaff Inventory.StaticWebAssets.Manifest.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\staticwebassets\WebAPI STaff Inventory.StaticWebAssets.Pack.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\staticwebassets\msbuild.WebAPI STaff Inventory.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\staticwebassets\msbuild.build.WebAPI STaff Inventory.props
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI STaff Inventory.props
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebAPI STaff Inventory.props
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.RazorTargetAssemblyInfo.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.csproj.CopyComplete
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\refint\WebAPI STaff Inventory.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.pdb
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.genruntimeconfig.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\WebAPI STaff Inventory\obj\Debug\net5.0\ref\WebAPI STaff Inventory.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\bin\Debug\net5.0\appsettings.json
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\bin\Debug\net5.0\WebAPI STaff Inventory.exe
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\bin\Debug\net5.0\WebAPI STaff Inventory.deps.json
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\bin\Debug\net5.0\WebAPI STaff Inventory.runtimeconfig.json
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\bin\Debug\net5.0\WebAPI STaff Inventory.runtimeconfig.dev.json
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\bin\Debug\net5.0\WebAPI STaff Inventory.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\bin\Debug\net5.0\WebAPI STaff Inventory.pdb
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.csproj.AssemblyReference.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.AssemblyInfoInputs.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.AssemblyInfo.cs
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\scopedcss\bundle\WebAPI STaff Inventory.styles.css
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\staticwebassets\WebAPI STaff Inventory.StaticWebAssets.Manifest.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\staticwebassets\WebAPI STaff Inventory.StaticWebAssets.Pack.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\staticwebassets\msbuild.WebAPI STaff Inventory.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\staticwebassets\msbuild.build.WebAPI STaff Inventory.props
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI STaff Inventory.props
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebAPI STaff Inventory.props
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.RazorTargetAssemblyInfo.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.csproj.CopyComplete
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\refint\WebAPI STaff Inventory.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.pdb
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.genruntimeconfig.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\ref\WebAPI STaff Inventory.dll

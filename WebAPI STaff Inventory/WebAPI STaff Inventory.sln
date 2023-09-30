@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI STaff Inventory", "WebAPI STaff Inventory.csproj", "{C4AD533E-1F48-4076-8190-AE8B2E281230}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI STaff Inventory", "WebAPI STaff Inventory.csproj", "{C4AD533E-1F48-4076-8190-AE8B2E281230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "staff.core", "..\staff.core\staff.core.csproj", "{AB7931D1-27AB-45C4-B57B-FCB78A87ABD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C4AD533E-1F48-4076-8190-AE8B2E281230}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4AD533E-1F48-4076-8190-AE8B2E281230}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4AD533E-1F48-4076-8190-AE8B2E281230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7931D1-27AB-45C4-B57B-FCB78A87ABD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7931D1-27AB-45C4-B57B-FCB78A87ABD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7931D1-27AB-45C4-B57B-FCB78A87ABD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7931D1-27AB-45C4-B57B-FCB78A87ABD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

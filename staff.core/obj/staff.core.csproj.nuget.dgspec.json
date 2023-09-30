@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ibrahim kedir\\Documents\\ALL CODE\\Staff-inventory-\\WebAPI STaff Inventory\\WebAPI STaff Inventory.csproj": {}
+    "C:\\Users\\ibrahim kedir\\Documents\\ALL CODE\\Staff-inventory-\\staff.core\\staff.core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ibrahim kedir\\Documents\\ALL CODE\\Staff-inventory-\\WebAPI STaff Inventory\\WebAPI STaff Inventory.csproj": {
+    "C:\\Users\\ibrahim kedir\\Documents\\ALL CODE\\Staff-inventory-\\staff.core\\staff.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibrahim kedir\\Documents\\ALL CODE\\Staff-inventory-\\WebAPI STaff Inventory\\WebAPI STaff Inventory.csproj",
-        "projectName": "WebAPI STaff Inventory",
-        "projectPath": "C:\\Users\\ibrahim kedir\\Documents\\ALL CODE\\Staff-inventory-\\WebAPI STaff Inventory\\WebAPI STaff Inventory.csproj",
+        "projectUniqueName": "C:\\Users\\ibrahim kedir\\Documents\\ALL CODE\\Staff-inventory-\\staff.core\\staff.core.csproj",
+        "projectName": "staff.core",
+        "projectPath": "C:\\Users\\ibrahim kedir\\Documents\\ALL CODE\\Staff-inventory-\\staff.core\\staff.core.csproj",
         "packagesPath": "C:\\Users\\ibrahim kedir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibrahim kedir\\Documents\\ALL CODE\\Staff-inventory-\\WebAPI STaff Inventory\\obj\\",
+        "outputPath": "C:\\Users\\ibrahim kedir\\Documents\\ALL CODE\\Staff-inventory-\\staff.core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -46,12 +46,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[5.6.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -64,9 +58,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
