@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace staff.core
 {
-    internal interface InterfaceStaff
+    public interface InterfaceStaff
     {
         // returnType nameOfMethod paramters
         List<staffObj> GetStaffs(); //method: list of staff 

@@ -91,6 +91,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "staff.core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/staff.core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/staff.core.dll": {}
+        }
       }
     }
   },
@@ -201,11 +211,17 @@
         "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "staff.core/1.0.0": {
+      "type": "project",
+      "path": "../staff.core/staff.core.csproj",
+      "msbuildProject": "../staff.core/staff.core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Swashbuckle.AspNetCore >= 5.6.3"
+      "Swashbuckle.AspNetCore >= 5.6.3",
+      "staff.core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -243,7 +259,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ibrahim kedir\\Documents\\ALL CODE\\Staff-inventory-\\staff.core\\staff.core.csproj": {
+              "projectPath": "C:\\Users\\ibrahim kedir\\Documents\\ALL CODE\\Staff-inventory-\\staff.core\\staff.core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

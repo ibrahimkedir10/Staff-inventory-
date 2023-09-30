@@ -64,3 +64,5 @@ C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventor
 C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.pdb
 C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\WebAPI STaff Inventory.genruntimeconfig.cache
 C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\obj\Debug\net5.0\ref\WebAPI STaff Inventory.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\bin\Debug\net5.0\staff.core.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\Staff-inventory-\WebAPI STaff Inventory\bin\Debug\net5.0\staff.core.pdb

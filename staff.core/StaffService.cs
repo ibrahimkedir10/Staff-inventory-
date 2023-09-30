@@ -38,7 +38,13 @@ namespace staff.core
 
         public staffObj DeleteStaff(int id)
         {
-            throw new NotImplementedException();
+            var deleteStaff = _staffs.FirstOrDefault(staff => staff.staffId == id);
+            if (deleteStaff != null) 
+            {
+                _staffs.Remove(deleteStaff);
+                return deleteStaff;
+            }
+            return null;
         }
 
         public staffObj GetStaff(int id)
@@ -53,7 +59,17 @@ namespace staff.core
 
         public staffObj UpdateStaff(int id, staffObj staff)
         {
-            throw new NotImplementedException();
+            var existingstaff = _staffs.FirstOrDefault(staff => staff.staffId == id);
+            if (existingstaff != null) 
+            {
+                existingstaff.staffId = staff.staffId;
+                existingstaff.Firstname = staff.Firstname;
+                existingstaff.Department = staff.Department;
+                existingstaff.Level = staff.Level;
+
+                return existingstaff;
+            }
+            return null;
         }
     }
 }
